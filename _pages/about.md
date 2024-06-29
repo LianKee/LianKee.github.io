@@ -15,7 +15,7 @@ In academia, I have published several papers in the world's top conferences on c
 In vulnerability discovery, I have identified and confirmed **150+ 0-day vulnerabilities** through my automated vulnerability mining tools and manual analysis, with **70+ assigned CVE IDs**. In the field of mobile security, I have received **acknowledgments and high-severity vulnerability recognitions from Google** and reported vulnerabilities to well-known mobile manufacturers such as **Huawei, vivo, and Xiaomi**. In the realm of open-source software, I have received **acknowledgments** from leading open-source project organizations, including **Apache, Eclipse, RedHat, VMWare, and Oracle**.
 
 ## News
-* [June, 2024] Our paper received the **ACM SIGSOFT Distinguished Paper Award** in FSE 2024
+* [2024/06] Our paper received the **ACM SIGSOFT Distinguished Paper Award** in FSE 2024
 
 
 ## Background
