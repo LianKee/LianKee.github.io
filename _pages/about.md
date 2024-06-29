@@ -23,31 +23,27 @@ In vulnerability discovery, I have identified and confirmed **150+ 0-day vulnera
 
 1. Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.
   :    **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang.
-  :    **(FSE 2024, CCF A, **[ACM SIGSOFT Distinguished Paper Award])****
-
-1. Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.
-  :    **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang.
-  :    FSE 2024, CCF A, **[ACM SIGSOFT Distinguished Paper Award]**
+  :    **FSE 2024, CCF A, [ACM SIGSOFT Distinguished Paper Award]**
 
 
-2. **Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search and Dataflow-aided Payload Construction.**
-   Bofei Chen, Lei Zhang, Xinyou Huang, Yinzhi Cao, **Keke Lian**, Yuan Zhang, Min Yang.
-   S&P 2024, CCF A, Acceptance rate: 17.8%
+1. Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search and Dataflow-aided Payload Construction.
+  :    Bofei Chen, Lei Zhang, Xinyou Huang, Yinzhi Cao, **Keke Lian**, Yuan Zhang, Min Yang.
+  :    **S&P 2024, CCF A, Acceptance rate: 17.8%**
 
 
-3. **TrustedDomain Compromise Attack in App-in-app Ecosystems.**
-    Zhibo Zhang, Zhangyue Zhang, **Keke Lian**, Guangliang Yang, Lei Zhang, Yuan Zhang, Min Yang.
-    CCS Workshop 2023
+3. TrustedDomain Compromise Attack in App-in-app Ecosystems.
+  :    Zhibo Zhang, Zhangyue Zhang, **Keke Lian**, Guangliang Yang, Lei Zhang, Yuan Zhang, Min Yang.
+  :    **CCS Workshop 2023**
 
 
-4. **Exploit The Last Straw that Breaks Android System.**
-    Lei Zhang, **Keke Lian (First Student Author)**, Haoyu Xiao, Zhibo Zhang, Peng Liu, Yuan Zhang, Min Yang, Haixin Duan.
-    S&P 2022, CCF A, Acceptance rate: 14.5%
+4. Exploit The Last Straw that Breaks Android System.
+  :    Lei Zhang, **Keke Lian (First Student Author)**, Haoyu Xiao, Zhibo Zhang, Peng Liu, Yuan Zhang, Min Yang, Haixin Duan.
+  :    **S&P 2022, CCF A, Acceptance rate: 14.5%**
 
 
-5. **TextExerciser: Feedback-driven Text Input Exercising for Android Applications.**
-   Yuyu He, Lei Zhang, Zhemin Yang, Yinzhi Cao, **Keke Lian**, Shuai Li, Wei Yang, Zhibo Zhang, Min Yang,
-   S&P 2020, CCF A, Acceptance rate: 12.4%
+5. TextExerciser: Feedback-driven Text Input Exercising for Android Applications.
+  :    Yuyu He, Lei Zhang, Zhemin Yang, Yinzhi Cao, **Keke Lian**, Shuai Li, Wei Yang, Zhibo Zhang, Min Yang,
+  :    S&P 2020, CCF A, Acceptance rate: 12.4%
 
 
 
@@ -59,6 +55,6 @@ In vulnerability discovery, I have identified and confirmed **150+ 0-day vulnera
 
 ## Selected Honors and Awards
 
-* ACM SIGSOFT Distinguished Paper Award   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024
-* National Scholarship (Top 1%), Xiamen University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016
-* Outstanding Student of Xiamen University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015 & 2016
+* ACM SIGSOFT Distinguished Paper Award   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024
+* National Scholarship (Top 1%), Xiamen University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016
+* Outstanding Student of Xiamen University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015 & 2016
