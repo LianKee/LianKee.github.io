@@ -21,12 +21,12 @@ In vulnerability discovery, I have identified and confirmed **150+ 0-day vulnera
 
 ## Publications
 
-*  **Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.** 
-   **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang.
-   FSE 2024, CCF A, **[ACM SIGSOFT Distinguished Paper Award]**
+1. Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.
+  :    **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang.
+   **(FSE 2024, CCF A, **[ACM SIGSOFT Distinguished Paper Award])****
 
 1. **Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.** 
-   **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang.
+  :    **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang.
    FSE 2024, CCF A, **[ACM SIGSOFT Distinguished Paper Award]**
 
 
