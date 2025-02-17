@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CVEs"
-    url: /cves/
+  # - title: "CVEs"
+  #   url: /cves/
 
   # - title: "Talks"
   #   url: /talks/    
