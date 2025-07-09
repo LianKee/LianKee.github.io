@@ -9,7 +9,7 @@ redirect_from:
 
 
 目前就职于腾讯安全平台部（深圳）。2024年于复旦大学[系统软件与安全实验室](https://secsys.fudan.edu.cn/)获得博士学位，导师为[杨珉教授](https://secsys.fudan.edu.cn/members/faculty/ym/)、[张源教授](https://yuanxzhang.github.io/)和[张磊助理教授](https://zxlfd.github.io/)。
-截至目前，已在S&P、USENIX Security和FSE等世界顶尖网络安全和软件工程会议上发表多篇论文，并获得了**ACM FSE 2024 杰出论文奖**（第一作者）。
+截至目前，已在 S&P、USENIX Security、FSE 等世界顶尖网络安全和软件工程会议上发表多篇论文，并获得 **ACM FSE 2024 杰出论文奖**（第一作者）。
 研究兴趣聚焦代码安全和移动安全领域，包括：
 * 漏洞挖掘；程序分析；模糊测试；
 * LLM for Security
@@ -18,7 +18,7 @@ redirect_from:
 
 
 ## 新闻
-* [2025/01] 一篇论文被**USENIX Security 2025**接收！
+* [2025/01] 一篇论文被 **USENIX Security 2025** 接收！
 * [2024/06] 我们的论文荣获 **ACM FSE 2024 杰出论文奖**!
 
 
