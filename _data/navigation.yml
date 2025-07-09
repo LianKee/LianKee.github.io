@@ -3,8 +3,8 @@ main:
   # - title: "CVEs"
   #   url: /cves/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "中文介绍"
+    url: /about_zh/    
 
   # - title: "Teaching"
   #   url: /teaching/    

@@ -6,14 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- I'm working at xxx in Shenzhen now. -->
-I received my PhD degree from the System Software and Security Laboratory at Fudan University in 2024, under the supervision of Professor Min Yang, Professor [Yuan Zhang](https://yuanxzhang.github.io/), and Assistant Professor [Lei Zhang](https://zxlfd.github.io/). I received my Bachelor's degree from Xiamen University in 2018.
+I'm working at Tencent in Shenzhen now. I received my PhD degree from the [System Software and Security Laboratory](https://secsys.fudan.edu.cn/) at Fudan University in 2024, supervised by Professor [Min Yang](https://secsys.fudan.edu.cn/members/faculty/ym/), Professor [Yuan Zhang](https://yuanxzhang.github.io/), and Assistant Professor [Lei Zhang](https://zxlfd.github.io/). 
 
-My research interests are centered on mobile security and open-source software security, with a particular emphasis on the detection, analysis, and exploitation of vulnerabilities. To address these challenges, my research utilizes a variety of multidisciplinary techniques, including program analysis and fuzzing. I am also exploring the integration of **large language models** to enhance these methodologies.
+<!-- I completed my Bachelor's degree from Xiamen University in 2018. -->
+
+My research interests are centered on code security and mobile security, particularly in vulnerability detection, analysis, and exploitation. To address these challenges, my research utilizes a variety of multidisciplinary techniques, including program analysis and fuzzing. I am also actively exploring the integration of **large language models** to enhance these methodologies.
 
 Up to now, I have published several papers in the world's top conferences on cybersecurity and software engineering, such as S&P, USENIX Security, and FSE. My paper on Android component security was awarded the **Distinguished Paper Award at ACM FSE 2024**.
+Furthermore, I have identified **150+ 0-day vulnerabilities**, with **70+ assigned CVE IDs**, and received acknowledgments from leading mobile manufacturers like Google, Huawei, vivo, Xiaomi, and open-source organizations such as Apache, Eclipse, RedHat, VMWare, and Oracle, etc.
 
-In vulnerability discovery, I have identified and confirmed **150+ 0-day vulnerabilities** through my automated vulnerability mining tools and manual analysis, with **70+ assigned CVE IDs**. In the field of mobile security, I have received **acknowledgments and high-severity vulnerability recognitions from Google** and reported vulnerabilities to well-known mobile manufacturers such as **Huawei, vivo, and Xiaomi**. In the realm of open-source software, I have received **acknowledgments** from leading open-source project organizations, including **Apache, Eclipse, RedHat, VMWare, and Oracle**.
+<!-- In the field of mobile security, I have received **acknowledgments and high-severity vulnerability recognitions from Google** and reported vulnerabilities to well-known mobile manufacturers such as **Huawei, vivo, and Xiaomi**. In the realm of open-source software, I have received **acknowledgments** from leading open-source project organizations, including **Apache, Eclipse, RedHat, VMWare, and Oracle**. -->
 
 ## News
 * [2025/01] One paper accepted by USENIX Security 2025! 
@@ -57,8 +59,6 @@ In vulnerability discovery, I have identified and confirmed **150+ 0-day vulnera
 5. TextExerciser: Feedback-driven Text Input Exercising for Android Applications.
   :    Yuyu He, Lei Zhang, Zhemin Yang, Yinzhi Cao, **Keke Lian**, Shuai Li, Wei Yang, Zhibo Zhang, Min Yang,
   :    **S&P 2020, CCF A, Acceptance rate: 12.4%**
-
-
 
 
 
