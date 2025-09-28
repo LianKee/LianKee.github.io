@@ -17,9 +17,9 @@ Furthermore, I have identified **150+ 0-day vulnerabilities**, with **70+ assign
 
 <!-- In the field of mobile security, I have received **acknowledgments and high-severity vulnerability recognitions from Google** and reported vulnerabilities to well-known mobile manufacturers such as **Huawei, vivo, and Xiaomi**. In the realm of open-source software, I have received **acknowledgments** from leading open-source project organizations, including **Apache, Eclipse, RedHat, VMWare, and Oracle**. -->
 
-## News
+<!-- ## News
 * [2025/01] One paper accepted by USENIX Security 2025! 
-* [2024/06] Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024!
+* [2024/06] Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024! -->
 
 
 <!-- ## Background
@@ -31,7 +31,16 @@ Furthermore, I have identified **150+ 0-day vulnerabilities**, with **70+ assign
 
 ## Publications
 
-1. Careless Retention and Management: Understanding and Detecting Data Retention Denial-of-Service Vulnerabilities in Java Web Containers.
+1. Exploring Static Taint Analysis in LLMs: A Dynamic Benchmarking Framework for Measurement and Enhancement.
+  :    Haoran Zhao, Lei Zhang, **Keke Lian** et al.
+  :    **ASE 2025, CCF A**
+
+
+2. A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code.
+  :    **Keke Lian**, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang et al.
+
+
+2. Careless Retention and Management: Understanding and Detecting Data Retention Denial-of-Service Vulnerabilities in Java Web Containers.
   :    **Keke Lian**, Lei Zhang, Haoran Zhao, Yinzhi Cao, Yongheng Liu, Fute Sun, Yuan Zhang, Min Yang.
   :    **USENIX Security 2025, CCF A**
 

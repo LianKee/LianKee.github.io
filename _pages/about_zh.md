@@ -17,12 +17,21 @@ redirect_from:
 此外，已成功挖掘 **150+ 0-day 漏洞**，并获得了 **70+ CVE ID**，获得了来自Google、华为、vivo、小米等领先移动厂商以及Apache、Eclipse、RedHat、VMWare、Oracle等知名开源组织的致谢。
 
 
-## 新闻
+<!-- ## 新闻
 * [2025/01] 一篇论文被 **USENIX Security 2025** 接收！
-* [2024/06] 我们的论文荣获 **ACM FSE 2024 杰出论文奖**!
+* [2024/06] 我们的论文荣获 **ACM FSE 2024 杰出论文奖**! -->
 
 
 ## 发表论文
+
+1. Exploring Static Taint Analysis in LLMs: A Dynamic Benchmarking Framework for Measurement and Enhancement.
+  :    Haoran Zhao, Lei Zhang, **Keke Lian** et al.
+  :    **ASE 2025, CCF A**
+
+
+2. A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code.
+  :    **Keke Lian**, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang et al.
+
 
 1. Careless Retention and Management: Understanding and Detecting Data Retention Denial-of-Service Vulnerabilities in Java Web Containers.
   :    **Keke Lian**, Lei Zhang, Haoran Zhao, Yinzhi Cao, Yongheng Liu, Fute Sun, Yuan Zhang, Min Yang.
