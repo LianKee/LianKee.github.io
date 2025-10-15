@@ -38,7 +38,7 @@ Furthermore, I have identified **150+ 0-day vulnerabilities**, with **70+ assign
 
 2. A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code.
   :    **Keke Lian**, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang et al.
-
+  :    **ArXiv**
 
 2. Careless Retention and Management: Understanding and Detecting Data Retention Denial-of-Service Vulnerabilities in Java Web Containers.
   :    **Keke Lian**, Lei Zhang, Haoran Zhao, Yinzhi Cao, Yongheng Liu, Fute Sun, Yuan Zhang, Min Yang.
