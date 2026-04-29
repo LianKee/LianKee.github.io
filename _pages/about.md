@@ -27,7 +27,7 @@ Up to now, I have published several papers at top-tier conferences in cybersecur
 # 🔥 News
 - \[2026.04\] &nbsp;🎉 Our A.S.E paper accepted by **ACL Findings 2026**!
 - \[2025.07\] &nbsp;🎉 We open-sourced [**A.S.E**](https://github.com/Tencent/AICGSecEval), the first repository-level benchmark for AI-generated code security evaluation!
-- \[2025.02\] &nbsp;🎉 Joined **Tencent**.
+- \[2025.02\] &nbsp;🎉 Joined **Tencent**!
 - \[2025.01\] &nbsp;🎉 One paper accepted by **USENIX Security 2025**!
 - \[2024.12\] &nbsp;🎉 Obtained my **Ph.D. degree** from Fudan University!
 - \[2024.06\] &nbsp;🎉 Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024!
