@@ -33,6 +33,9 @@ Up to now, I have published several papers at top-tier conferences in cybersecur
 - \[2024.06\] &nbsp;🎉 Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024!
 - \[2024.05\] &nbsp;🎉 One paper accepted by **FSE 2024**!
 - \[2024.01\] &nbsp;🎉 One paper accepted by **S&P 2024**!
+- \[2023.06\] &nbsp;🎉 One paper accepted by **CCS Workshop 2023**!
+- \[2021.12\] &nbsp;🎉 One paper accepted by **S&P 2022**!
+- \[2019.12\] &nbsp;🎉 One paper accepted by **S&P 2020**!
 
 # 📝 Publications 
 
@@ -83,4 +86,6 @@ Up to now, I have published several papers at top-tier conferences in cybersecur
 
 <!-- ClustrMaps visitor globe -->
 <!-- TODO: 前往 https://clustrmaps.com/ 注册你的站点，获取嵌入代码后替换下方 src 中的 site ID -->
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9cYKnUIK2W1vqIZSLUyDsMj3IYaHiPGwKF_4iQYDPQc"></script>
+<div style="text-align:center; margin-top:1.5em; width:200px; margin-left:auto; margin-right:auto;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9cYKnUIK2W1vqIZSLUyDsMj3IYaHiPGwKF_4iQYDPQc&w=200&h=200"></script>
+</div>
