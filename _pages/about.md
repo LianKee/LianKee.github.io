@@ -17,42 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently leading the WuKong Code Security team at Tencent, Shenzhen. My current research focuses on the intersection of AI and code security, including LLM- and agent-driven vulnerability detection, systematic evaluation of AI/Agents, and secure code generation. I also have broad interests in program analysis, fuzzing, and mobile security.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my PhD degree from the [System Software and Security Laboratory](https://secsys.fudan.edu.cn/) at Fudan University in 2024, supervised by Professor [Min Yang](https://secsys.fudan.edu.cn/members/faculty/ym/), Professor [Yuan Zhang](https://yuanxzhang.github.io/), and Assistant Professor [Lei Zhang](https://zxlfd.github.io/).
+
+Up to now, I have published several papers at top-tier conferences in cybersecurity and software engineering, including S&P, USENIX Security, and FSE. One of my papers received the **Distinguished Paper Award at ACM FSE 2024**. Furthermore, I have identified **150+ 0-day vulnerabilities**, with **70+ assigned CVE IDs**, and received acknowledgments from leading mobile manufacturers like Google, Huawei, vivo, Xiaomi, and open-source organizations such as Apache, Eclipse, RedHat, VMWare, and Oracle, etc.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;🎉🎉 Our A.S.E paper accepted by **ACL Findings 2026**!
+- *2025.07*: &nbsp;🎉🎉 We open-sourced [**A.S.E**](https://github.com/Tencent/AICGSecEval), the first repository-level benchmark for AI-generated code security evaluation!
+- *2025.02*: &nbsp;🎉🎉 Joined **Tencent**.
+- *2025.01*: &nbsp;🎉🎉 One paper accepted by **USENIX Security 2025**!
+- *2024.12*: &nbsp;🎉🎉 Obtained my **Ph.D. degree** from Fudan University!
+- *2024.06*: &nbsp;🎉🎉 Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024!
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by **FSE 2024**!
+- *2024.01*: &nbsp;🎉🎉 One paper accepted by **S&P 2024**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code. **Keke Lian**, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang et al. **ACL Findings 2026, CCF A**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Exploring Static Taint Analysis in LLMs: A Dynamic Benchmarking Framework for Measurement and Enhancement. Haoran Zhao, Lei Zhang, **Keke Lian** et al. **ASE 2025, CCF A**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Careless Retention and Management: Understanding and Detecting Data Retention Denial-of-Service Vulnerabilities in Java Web Containers. **Keke Lian**, Lei Zhang, Haoran Zhao, Yinzhi Cao, Yongheng Liu, Fute Sun, Yuan Zhang, Min Yang. **USENIX Security 2025, CCF A**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications. **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang. **FSE 2024, CCF A** 🏆 **ACM SIGSOFT Distinguished Paper Award**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search and Dataflow-aided Payload Construction. Bofei Chen, Lei Zhang, Xinyou Huang, Yinzhi Cao, **Keke Lian**, Yuan Zhang, Min Yang. **S&P 2024, CCF A**
+
+- TrustedDomain Compromise Attack in App-in-app Ecosystems. Zhibo Zhang, Zhangyue Zhang, **Keke Lian**, Guangliang Yang, Lei Zhang, Yuan Zhang, Min Yang. **CCS Workshop 2023**
+
+- Exploit The Last Straw that Breaks Android System. Lei Zhang, **Keke Lian (First Student Author)**, Haoyu Xiao, Zhibo Zhang, Peng Liu, Yuan Zhang, Min Yang, Haixin Duan. **S&P 2022, CCF A**
+
+- TextExerciser: Feedback-driven Text Input Exercising for Android Applications. Yuyu He, Lei Zhang, Zhemin Yang, Yinzhi Cao, **Keke Lian**, Shuai Li, Wei Yang, Zhibo Zhang, Min Yang. **S&P 2020, CCF A**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* ACM SIGSOFT Distinguished Paper Award.
+- *2023 & 2024* Outstanding Student Award of Fudan University.
+- *2016* National Scholarship (Top 1%), Xiamen University.
+- *2015 & 2016* Outstanding Student Award of Xiamen University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018.09 - 2024.06*, Ph.D. in Cyberspace Security, Fudan University, Shanghai, China.
+- *2014.09 - 2018.06*, B.E. in Software Engineering, Xiamen University, Xiamen, China.
