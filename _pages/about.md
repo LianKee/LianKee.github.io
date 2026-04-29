@@ -25,32 +25,49 @@ Up to now, I have published several papers at top-tier conferences in cybersecur
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our A.S.E paper accepted by **ACL Findings 2026**!
-- *2025.07*: &nbsp;🎉🎉 We open-sourced [**A.S.E**](https://github.com/Tencent/AICGSecEval), the first repository-level benchmark for AI-generated code security evaluation!
-- *2025.02*: &nbsp;🎉🎉 Joined **Tencent**.
-- *2025.01*: &nbsp;🎉🎉 One paper accepted by **USENIX Security 2025**!
-- *2024.12*: &nbsp;🎉🎉 Obtained my **Ph.D. degree** from Fudan University!
-- *2024.06*: &nbsp;🎉🎉 Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024!
-- *2024.05*: &nbsp;🎉🎉 One paper accepted by **FSE 2024**!
-- *2024.01*: &nbsp;🎉🎉 One paper accepted by **S&P 2024**!
+- \[2026.04\] &nbsp;🎉 Our A.S.E paper accepted by **ACL Findings 2026**!
+- \[2025.07\] &nbsp;🎉 We open-sourced [**A.S.E**](https://github.com/Tencent/AICGSecEval), the first repository-level benchmark for AI-generated code security evaluation!
+- \[2025.02\] &nbsp;🎉 Joined **Tencent**.
+- \[2025.01\] &nbsp;🎉 One paper accepted by **USENIX Security 2025**!
+- \[2024.12\] &nbsp;🎉 Obtained my **Ph.D. degree** from Fudan University!
+- \[2024.06\] &nbsp;🎉 Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024!
+- \[2024.05\] &nbsp;🎉 One paper accepted by **FSE 2024**!
+- \[2024.01\] &nbsp;🎉 One paper accepted by **S&P 2024**!
 
 # 📝 Publications 
 
-- A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code. **Keke Lian**, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang et al. **ACL Findings 2026, CCF A**
+ACL'26 &nbsp; **A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Keke Lian**, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang et al.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Findings of the Association for Computational Linguistics (ACL Findings).* <span style="color:red">(CCF-A)</span>
 
-- Exploring Static Taint Analysis in LLMs: A Dynamic Benchmarking Framework for Measurement and Enhancement. Haoran Zhao, Lei Zhang, **Keke Lian** et al. **ASE 2025, CCF A**
+ASE'25 &nbsp; **Exploring Static Taint Analysis in LLMs: A Dynamic Benchmarking Framework for Measurement and Enhancement.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Haoran Zhao, Lei Zhang, **Keke Lian** et al.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the International Conference on Automated Software Engineering (ASE).* <span style="color:red">(CCF-A)</span>
 
-- Careless Retention and Management: Understanding and Detecting Data Retention Denial-of-Service Vulnerabilities in Java Web Containers. **Keke Lian**, Lei Zhang, Haoran Zhao, Yinzhi Cao, Yongheng Liu, Fute Sun, Yuan Zhang, Min Yang. **USENIX Security 2025, CCF A**
+Security'25 &nbsp; **Careless Retention and Management: Understanding and Detecting Data Retention Denial-of-Service Vulnerabilities in Java Web Containers.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Keke Lian**, Lei Zhang, Haoran Zhao, Yinzhi Cao, Yongheng Liu, Fute Sun, Yuan Zhang, Min Yang.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the USENIX Security Symposium (USENIX Security).* <span style="color:red">(CCF-A)</span>
 
-- Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications. **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang. **FSE 2024, CCF A** 🏆 **ACM SIGSOFT Distinguished Paper Award**
+FSE'24 &nbsp; **Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Keke Lian**, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE).* <span style="color:red">(CCF-A)</span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:red">**★ ACM SIGSOFT Distinguished Paper Award**</span>
 
-- Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search and Dataflow-aided Payload Construction. Bofei Chen, Lei Zhang, Xinyou Huang, Yinzhi Cao, **Keke Lian**, Yuan Zhang, Min Yang. **S&P 2024, CCF A**
+S&P'24 &nbsp; **Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search and Dataflow-aided Payload Construction.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bofei Chen, Lei Zhang, Xinyou Huang, Yinzhi Cao, **Keke Lian**, Yuan Zhang, Min Yang.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the IEEE Symposium on Security and Privacy (S&P).* <span style="color:red">(CCF-A)</span>
 
-- TrustedDomain Compromise Attack in App-in-app Ecosystems. Zhibo Zhang, Zhangyue Zhang, **Keke Lian**, Guangliang Yang, Lei Zhang, Yuan Zhang, Min Yang. **CCS Workshop 2023**
+CCS Workshop'23 &nbsp; **TrustedDomain Compromise Attack in App-in-app Ecosystems.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zhibo Zhang, Zhangyue Zhang, **Keke Lian**, Guangliang Yang, Lei Zhang, Yuan Zhang, Min Yang.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the ACM Conference on Computer and Communications Security Workshop (CCS Workshop).*
 
-- Exploit The Last Straw that Breaks Android System. Lei Zhang, **Keke Lian (First Student Author)**, Haoyu Xiao, Zhibo Zhang, Peng Liu, Yuan Zhang, Min Yang, Haixin Duan. **S&P 2022, CCF A**
+S&P'22 &nbsp; **Exploit The Last Straw that Breaks Android System.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lei Zhang, **Keke Lian (First Student Author)**, Haoyu Xiao, Zhibo Zhang, Peng Liu, Yuan Zhang, Min Yang, Haixin Duan.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the IEEE Symposium on Security and Privacy (S&P).* <span style="color:red">(CCF-A)</span>
 
-- TextExerciser: Feedback-driven Text Input Exercising for Android Applications. Yuyu He, Lei Zhang, Zhemin Yang, Yinzhi Cao, **Keke Lian**, Shuai Li, Wei Yang, Zhibo Zhang, Min Yang. **S&P 2020, CCF A**
+S&P'20 &nbsp; **TextExerciser: Feedback-driven Text Input Exercising for Android Applications.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yuyu He, Lei Zhang, Zhemin Yang, Yinzhi Cao, **Keke Lian**, Shuai Li, Wei Yang, Zhibo Zhang, Min Yang.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the IEEE Symposium on Security and Privacy (S&P).* <span style="color:red">(CCF-A)</span>
 
 # 🎖 Honors and Awards
 - *2024* ACM SIGSOFT Distinguished Paper Award.
