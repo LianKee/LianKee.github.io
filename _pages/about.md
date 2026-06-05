@@ -25,9 +25,10 @@ Up to now, I have published several papers at top-tier conferences in cybersecur
 
 
 # 🔥 News
+- \[2026.05\] &nbsp;🎉 We open-sourced [**VulnGym**](https://github.com/Tencent/VulnGym), a repo-level benchmark for business-logic vulnerability detection.
 - \[2026.04\] &nbsp;🎉 Our A.S.E paper accepted by **ACL Findings 2026**!
 - \[2025.09\] &nbsp;🎉 One paper accepted by **ASE 2025**. Congrats to Haoran!
-- \[2025.07\] &nbsp;🎉 We open-sourced [**A.S.E**](https://github.com/Tencent/AICGSecEval), the first repository-level benchmark for AI-generated code security evaluation!
+- \[2025.07\] &nbsp;🎉 We open-sourced [**A.S.E**](https://github.com/Tencent/AICGSecEval), the first repo-level benchmark for AI-generated code security evaluation!
 - \[2025.02\] &nbsp;🎉 Joined **Tencent**!
 - \[2025.01\] &nbsp;🎉 One paper accepted by **USENIX Security 2025**!
 - \[2024.12\] &nbsp;🎉 Obtained my **Ph.D. degree** from Fudan University!
