@@ -25,6 +25,7 @@ Up to now, I have published several papers at top-tier conferences in cybersecur
 
 
 # 🔥 News
+- \[2026.07\] &nbsp;🎉 One paper accepted by **TOSEM 2026**
 - \[2026.05\] &nbsp;🎉 We open-sourced [**VulnGym**](https://github.com/Tencent/VulnGym), a repo-level benchmark for business-logic vulnerability detection.
 - \[2026.04\] &nbsp;🎉 Our A.S.E paper accepted by **ACL Findings 2026**!
 - \[2025.09\] &nbsp;🎉 One paper accepted by **ASE 2025**. Congrats to Haoran!
@@ -33,13 +34,17 @@ Up to now, I have published several papers at top-tier conferences in cybersecur
 - \[2025.01\] &nbsp;🎉 One paper accepted by **USENIX Security 2025**!
 - \[2024.12\] &nbsp;🎉 Obtained my **Ph.D. degree** from Fudan University!
 - \[2024.06\] &nbsp;🎉 Our paper received the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024!
-- \[2024.05\] &nbsp;🎉 One paper accepted by **FSE 2024**!
-- \[2024.01\] &nbsp;🎉 One paper accepted by **S&P 2024**!
+<!-- - \[2024.05\] &nbsp;🎉 One paper accepted by **FSE 2024**! -->
+<!-- - \[2024.01\] &nbsp;🎉 One paper accepted by **S&P 2024**! -->
 <!-- - \[2023.06\] &nbsp;🎉 One paper accepted by **CCS Workshop 2023**! -->
 <!-- - \[2021.12\] &nbsp;🎉 One paper accepted by **S&P 2022**! -->
 <!-- - \[2019.12\] &nbsp;🎉 One paper accepted by **S&P 2020**! -->
 
 # 📝 Publications 
+
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">TOSEM'26</span> &nbsp; **VulnBridge: Program Semantics Guided Agents for Vulnerability Discovery.**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xu Han, Guangliang Yang, Yi Wang, Can Li, Yangshuo Bai, Xinming Guo, Aohan Mei, **Keke Lian** et al.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *TOSEM, 2026.* <span style="color:red">(CCF-A)</span>
 
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">ACL'26</span> &nbsp; **A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code.**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Keke Lian**, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang et al.
